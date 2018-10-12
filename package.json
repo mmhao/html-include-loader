@@ -21,7 +21,6 @@
   "license": "ISC",
   "dependencies": {
     "loader-utils": "^0.2.15",
-    "path": "^0.12.7",
-    "user": "0.0.0"
+    "path": "^0.12.7"
   }
 }
