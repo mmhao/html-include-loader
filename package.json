@@ -1,5 +1,5 @@
 {
-  "name": "html-include-loader",
+  "name": "@mhao/html-include-loader",
   "version": "1.0.0",
   "description": "引入html，自动处理各种路径问题",
   "main": "index.js",
@@ -21,6 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "loader-utils": "^0.2.15",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "user": "0.0.0"
   }
 }
