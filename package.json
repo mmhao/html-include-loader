@@ -1,0 +1,22 @@
+{
+  "name": "html-include-loader",
+  "version": "1.0.0",
+  "description": "引入html，自动处理各种路径问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "html",
+    "img",
+    "loader",
+    "html-include-loader"
+  ],
+  "author": "mhao",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^0.2.15",
+    "path": "^0.12.7"
+  }
+}
